@@ -9,7 +9,7 @@ public class myCode {
         System.out.println("สุดารัตน์ กรดสีใหม่.");
         System.out.println("361211760016.");
         System.out.println("MIT211.");
-        System.out.println("ระบบสารสนเทศ.");
+
 
 
 
